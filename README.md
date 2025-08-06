@@ -11,7 +11,7 @@
 
 - Salvar diferentes versões de um projeto;
 
-- Trabalhar com branches (ramificações) para desenvolver novas funcionalidades sem  afetar oo código principal;
+- Trabalhar com branches (ramificações) para desenvolver novas funcionalidades sem  afetar o código principal;
 
 - Reverter mudanças caso algo de errado;
 
