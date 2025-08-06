@@ -1,0 +1,48 @@
+/* Resetando margens e preenchimento padrão */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Definindo o estilo global do corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Fonte agradável e legível */
+    background-color: #f4f4f4; /* Cor de fundo suave */
+    color: #333; /* Cor de texto */
+    line-height: 1.6; /* Espaçamento entre as linhas */
+    padding: 20px; /* Espaçamento interno */
+}
+
+/* Estilizando o título principal */
+h1 {
+    color: #4CAF50; /* Cor verde para o título */
+    text-align: center; /* Centraliza o título */
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
+/* Estilo para o parágrafo */
+p {
+    font-size: 18px; /* Tamanho maior para o parágrafo */
+    text-align: center; /* Centraliza o texto do parágrafo */
+    margin-top: 20px; /* Espaçamento acima do parágrafo */
+}
+
+/* Estilizando o link */
+a {
+    color: #007BFF; /* Cor azul para o link */
+    text-decoration: none; /* Retira o sublinhado do link */
+    font-weight: bold; /* Deixa o texto do link em negrito */
+}
+
+a:hover {
+    color: #0056b3; /* Cor do link quando o mouse passa por cima */
+    text-decoration: underline; /* Sublinha o link no hover */
+}
+
+/* Adicionando uma borda e sombra ao corpo */
+body {
+    background-color: #fff; /* Fundo branco para o corpo da página */
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Sombra leve */
+}
